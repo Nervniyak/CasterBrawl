@@ -1,2 +1,2 @@
 # CasterBrawl
-UNET Multiplayer Warlock FPS game by Aleksey Krylov.
+UNET Multiplayer Warlock FPS game
